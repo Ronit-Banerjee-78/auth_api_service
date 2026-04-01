@@ -1,0 +1,20 @@
+Summary of Revisions (Camera-Ready Version)
+1. Abstract (Revised for Clarity & Novelty)
+Change: Completely rewrote the Abstract to shift focus from "generic sleep measurement" to the specific clinical validation of the system on a large elderly cohort (N=357).
+Reason: To address the reviewer's comment that the work is "validation-oriented" and to highlight the dataset size immediately.
+2. Section I: Introduction (Updated Contributions).
+Change: Replaced the "Contributions" paragraph.
+Detail: The new text explicitly contrasts this study against prior works that used small, healthy cohorts. It emphasizes that validating an EEG-less system on a heterogeneous, elderly population (N=357) is the primary scientific contribution.
+Reason: To satisfy the instruction to "Clarify the novel contribution."
+3. Section II: Literature Review (Added Comparison Table)
+Change: Inserted a new Table I: Comparison With Prior Non-EEG Sleep Staging Studies.
+Detail: This table benchmarks the proposed work against other key studies (Liu et al., Wulterkens et al.), visually proving that our sample size and validation method (Gold-Standard PSG) are superior.
+Reason: To satisfy the instruction to "Strengthen the comparison to prior work."
+4. Section V: Discussion (Added Clinical Relevance)
+Change: Inserted a new paragraph titled "Clinical Relevance" (Paragraph 2 of Discussion).
+Detail: This section explains why EEG-less monitoring is critical for geriatric patients (avoiding skin irritation, dementia agitation, and the "first-night effect").
+Reason: To satisfy the instruction to "Emphasize clinical relevance."
+5. Section VI: References (IEEE Compliance)
+Change: Updated the Reference list to strictly follow IEEE Conference formatting.
+Detail: Applied the "et al." rule for papers with 7+ authors (e.g., Ref [1], [3], [8], [10]).
+Reason: To ensure technical compliance with IEEE Xplore indexing requirements.
